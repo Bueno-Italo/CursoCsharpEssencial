@@ -10,7 +10,7 @@ Console.WriteLine(titulo);
 
 Console.ReadLine();
 
-object nota = 10;
+object nota = 11;
 object valor1 =8.55;
 object nome1 ="Maria";
 object ativa = true;
