@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eDVbDGF4RHLHe2k8LEp2732cZAY1De3gI0TIlSQ91DA+4Oy8xXHZiZNvsngwILfJox5HSOEiHIahDUoRDG3mcw==",
+  "success": true,
+  "projectFilePath": "C:\\Repositórios\\Projetos\\CSFundamentos1\\TiposDeDados4\\TiposDeDados4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

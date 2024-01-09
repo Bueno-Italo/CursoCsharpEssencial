@@ -1,0 +1,15 @@
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.exe
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.deps.json
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.runtimeconfig.json
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.dll
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.pdb
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.csproj.AssemblyReference.cache
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.AssemblyInfoInputs.cache
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.AssemblyInfo.cs
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.csproj.CoreCompileInputs.cache
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.dll
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\refint\TiposDeDados1.dll
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.pdb
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.genruntimeconfig.cache
+C:\Repositórios\Projetos\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\ref\TiposDeDados1.dll
