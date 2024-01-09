@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositórios\\Projetos\\CSFundamentos1\\TiposDeDados1\\TiposDeDados1.csproj",
+      "projectUniqueName": "C:\\Repositórios\\Projetos\\CursoCsharpEssencial\\TiposDeDados1\\TiposDeDados1.csproj",
       "projectName": "TiposDeDados1",
-      "projectPath": "C:\\Repositórios\\Projetos\\CSFundamentos1\\TiposDeDados1\\TiposDeDados1.csproj",
+      "projectPath": "C:\\Repositórios\\Projetos\\CursoCsharpEssencial\\TiposDeDados1\\TiposDeDados1.csproj",
       "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositórios\\Projetos\\CSFundamentos1\\TiposDeDados1\\obj\\",
+      "outputPath": "C:\\Repositórios\\Projetos\\CursoCsharpEssencial\\TiposDeDados1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

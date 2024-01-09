@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eDVbDGF4RHLHe2k8LEp2732cZAY1De3gI0TIlSQ91DA+4Oy8xXHZiZNvsngwILfJox5HSOEiHIahDUoRDG3mcw==",
+  "dgSpecHash": "peS2RnIthVOCCP2xWPxqjn9PVoPILDc1tN3BDnXml6fVaMGGhU9gmNGInr6+VZllXiDzVf22hB1B+JyUe2Tmww==",
   "success": true,
-  "projectFilePath": "C:\\Repositórios\\Projetos\\CSFundamentos1\\TiposDeDados4\\TiposDeDados4.csproj",
+  "projectFilePath": "C:\\Repositórios\\Projetos\\CursoCsharpEssencial\\TiposDeDados4\\TiposDeDados4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\italo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
     "C:\\Users\\italo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
