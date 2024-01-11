@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDeDados3", "TiposDeDad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposDeDados4", "TiposDeDados4\TiposDeDados4.csproj", "{B8145D1F-49D7-4C46-9350-5BC042733E15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoDateTime1", "TipoDateTime1\TipoDateTime1.csproj", "{FFA48A67-1414-4C16-8709-7791BE8DF3AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime1", "DateTime1\DateTime1.csproj", "{8CDEA170-2340-42DC-AB09-4CC0456D9B62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{B8145D1F-49D7-4C46-9350-5BC042733E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8145D1F-49D7-4C46-9350-5BC042733E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8145D1F-49D7-4C46-9350-5BC042733E15}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FFA48A67-1414-4C16-8709-7791BE8DF3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FFA48A67-1414-4C16-8709-7791BE8DF3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FFA48A67-1414-4C16-8709-7791BE8DF3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FFA48A67-1414-4C16-8709-7791BE8DF3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CDEA170-2340-42DC-AB09-4CC0456D9B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDEA170-2340-42DC-AB09-4CC0456D9B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDEA170-2340-42DC-AB09-4CC0456D9B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDEA170-2340-42DC-AB09-4CC0456D9B62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
