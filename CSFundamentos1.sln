@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes1", "NullableT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identificadores", "Identificadores\Identificadores.csproj", "{75C2F3E3-557A-4EF0-B503-33575AFE27E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosFase1", "ExerciciosFase1\ExerciciosFase1.csproj", "{5266065E-72CA-41C9-917D-8DD3F60FC093}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{75C2F3E3-557A-4EF0-B503-33575AFE27E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75C2F3E3-557A-4EF0-B503-33575AFE27E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75C2F3E3-557A-4EF0-B503-33575AFE27E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5266065E-72CA-41C9-917D-8DD3F60FC093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5266065E-72CA-41C9-917D-8DD3F60FC093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5266065E-72CA-41C9-917D-8DD3F60FC093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5266065E-72CA-41C9-917D-8DD3F60FC093}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
