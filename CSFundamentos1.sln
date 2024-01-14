@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciciosFase1", "Exercici
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDados", "SaidaDados\SaidaDados.csproj", "{1C3E8644-4B95-4F8E-8693-8942136D4DA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDados2", "SaidaDados2\SaidaDados2.csproj", "{360C074A-C1B4-4733-90C5-99B778ECBE39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1C3E8644-4B95-4F8E-8693-8942136D4DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C3E8644-4B95-4F8E-8693-8942136D4DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C3E8644-4B95-4F8E-8693-8942136D4DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360C074A-C1B4-4733-90C5-99B778ECBE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360C074A-C1B4-4733-90C5-99B778ECBE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360C074A-C1B4-4733-90C5-99B778ECBE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360C074A-C1B4-4733-90C5-99B778ECBE39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
