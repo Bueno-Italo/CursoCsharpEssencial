@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDados2", "SaidaDados2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoTipos", "ConversaoTipos\ConversaoTipos.csproj", "{358D79A4-2E19-400E-AAA3-10D419080B2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoTipo1", "ConversaoTipo1\ConversaoTipo1.csproj", "{8B82DCEC-E1EF-4677-9BA1-EAA6CA10C130}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{358D79A4-2E19-400E-AAA3-10D419080B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{358D79A4-2E19-400E-AAA3-10D419080B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{358D79A4-2E19-400E-AAA3-10D419080B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B82DCEC-E1EF-4677-9BA1-EAA6CA10C130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B82DCEC-E1EF-4677-9BA1-EAA6CA10C130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B82DCEC-E1EF-4677-9BA1-EAA6CA10C130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B82DCEC-E1EF-4677-9BA1-EAA6CA10C130}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
