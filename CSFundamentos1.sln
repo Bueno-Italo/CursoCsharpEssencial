@@ -31,11 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntradaDeDados", "EntradaDe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAritmeticos", "OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{190D9394-A328-402C-8710-20DFFF56D153}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferenciaTipos", "InferenciaTipos\InferenciaTipos.csproj", "{04A6BF70-2694-487C-9789-9566D83EE0E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InferenciaTipos", "InferenciaTipos\InferenciaTipos.csproj", "{04A6BF70-2694-487C-9789-9566D83EE0E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAtribuição", "OperadoresAtribuição\OperadoresAtribuição.csproj", "{B85EA833-23B2-4922-AADF-6F843FE72887}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAtribuição", "OperadoresAtribuição\OperadoresAtribuição.csproj", "{B85EA833-23B2-4922-AADF-6F843FE72887}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "Constantes\Constantes.csproj", "{3C77BE86-3B3E-4F03-91F1-CFABB1253016}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constantes", "Constantes\Constantes.csproj", "{3C77BE86-3B3E-4F03-91F1-CFABB1253016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresIncrementoDecremento", "OperadoresIncrementoDecremento\OperadoresIncrementoDecremento.csproj", "{AE34BD10-7360-4600-A781-0AC6028B1B86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{3C77BE86-3B3E-4F03-91F1-CFABB1253016}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C77BE86-3B3E-4F03-91F1-CFABB1253016}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C77BE86-3B3E-4F03-91F1-CFABB1253016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE34BD10-7360-4600-A781-0AC6028B1B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE34BD10-7360-4600-A781-0AC6028B1B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE34BD10-7360-4600-A781-0AC6028B1B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE34BD10-7360-4600-A781-0AC6028B1B86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
