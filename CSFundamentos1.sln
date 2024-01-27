@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresRelacionais", "Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{D80B2EFB-C1EC-4196-BC3F-B4F1EB3D48EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorTernario", "OperadorTernario\OperadorTernario.csproj", "{029C67F1-38E6-45C7-BE42-913A454F8203}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{D80B2EFB-C1EC-4196-BC3F-B4F1EB3D48EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D80B2EFB-C1EC-4196-BC3F-B4F1EB3D48EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D80B2EFB-C1EC-4196-BC3F-B4F1EB3D48EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029C67F1-38E6-45C7-BE42-913A454F8203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029C67F1-38E6-45C7-BE42-913A454F8203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029C67F1-38E6-45C7-BE42-913A454F8203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029C67F1-38E6-45C7-BE42-913A454F8203}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
