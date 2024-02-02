@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstruçãoSwitch", "Instru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstruçãoSwitch2", "InstruçãoSwitch2\InstruçãoSwitch2.csproj", "{0F5C5C94-5D7C-4484-9A2E-D2DFACED7E88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "This", "This\This.csproj", "{55D42ABD-B846-457C-976D-CBE17C8117FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "This", "This\This.csproj", "{55D42ABD-B846-457C-976D-CBE17C8117FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaRepetição", "EstruturaRepetição\EstruturaRepetição.csproj", "{FC41B4DE-0B07-464A-BBA4-D57ADF1043B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{55D42ABD-B846-457C-976D-CBE17C8117FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55D42ABD-B846-457C-976D-CBE17C8117FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55D42ABD-B846-457C-976D-CBE17C8117FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC41B4DE-0B07-464A-BBA4-D57ADF1043B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC41B4DE-0B07-464A-BBA4-D57ADF1043B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC41B4DE-0B07-464A-BBA4-D57ADF1043B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC41B4DE-0B07-464A-BBA4-D57ADF1043B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
