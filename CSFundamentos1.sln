@@ -61,7 +61,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaRepetição", "Est
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaRepetição2", "EstruturaRepetição2\EstruturaRepetição2.csproj", "{62C2D04D-92A1-4BFE-8A29-DCAA2F123F49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estruturaRepetiçãoWhile3", "estruturaRepetiçãoWhile3\estruturaRepetiçãoWhile3.csproj", "{DBB7CB3C-597F-4F3D-A53E-8ECC2B66AC66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "estruturaRepetiçãoWhile3", "estruturaRepetiçãoWhile3\estruturaRepetiçãoWhile3.csproj", "{DBB7CB3C-597F-4F3D-A53E-8ECC2B66AC66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntruçãoWhile", "IntruçãoWhile\IntruçãoWhile.csproj", "{37B2B072-6182-4800-9319-D6B4F5A4AAE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{DBB7CB3C-597F-4F3D-A53E-8ECC2B66AC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBB7CB3C-597F-4F3D-A53E-8ECC2B66AC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBB7CB3C-597F-4F3D-A53E-8ECC2B66AC66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B2B072-6182-4800-9319-D6B4F5A4AAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B2B072-6182-4800-9319-D6B4F5A4AAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B2B072-6182-4800-9319-D6B4F5A4AAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B2B072-6182-4800-9319-D6B4F5A4AAE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
