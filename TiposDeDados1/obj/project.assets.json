@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\italo\\.nuget\\packages\\": {},
+    "C:\\Users\\juana\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositórios\\Projetos\\CursoCsharpEssencial\\TiposDeDados1\\TiposDeDados1.csproj",
+      "projectUniqueName": "C:\\Repositorios\\CursoCsharpEssencial\\TiposDeDados1\\TiposDeDados1.csproj",
       "projectName": "TiposDeDados1",
-      "projectPath": "C:\\Repositórios\\Projetos\\CursoCsharpEssencial\\TiposDeDados1\\TiposDeDados1.csproj",
-      "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositórios\\Projetos\\CursoCsharpEssencial\\TiposDeDados1\\obj\\",
+      "projectPath": "C:\\Repositorios\\CursoCsharpEssencial\\TiposDeDados1\\TiposDeDados1.csproj",
+      "packagesPath": "C:\\Users\\juana\\.nuget\\packages\\",
+      "outputPath": "C:\\Repositorios\\CursoCsharpEssencial\\TiposDeDados1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\juana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,19 +65,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.20, 6.0.20]"
+            "version": "[6.0.26, 6.0.26]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.20, 6.0.20]"
+            "version": "[6.0.26, 6.0.26]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.20, 6.0.20]"
+            "version": "[6.0.26, 6.0.26]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.20, 6.0.20]"
+            "version": "[6.0.26, 6.0.26]"
           }
         ],
         "frameworkReferences": {
@@ -84,7 +85,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

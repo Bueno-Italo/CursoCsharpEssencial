@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NGGRaWH2RctwZBDhDRM6utzj1AeVQ0JKESzZW9HKG2N7FZP4m60hdGv1sYel+FRQkOn02cJJ8+t+d4R55GPaPg==",
+  "dgSpecHash": "Fnip4g1mQMPv2SOTW5FSjIlL6SzlwJBthh9AsQlvTVEmQ8VJ+Dbd4s4ENquiPgTeJ+ATqd0FAvIguFvZLzplMw==",
   "success": true,
-  "projectFilePath": "C:\\Repositórios\\Projetos\\CursoCsharpEssencial\\TiposDeDados3\\TiposDeDados3.csproj",
+  "projectFilePath": "C:\\Repositorios\\CursoCsharpEssencial\\TiposDeDados3\\TiposDeDados3.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\italo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\italo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\italo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\italo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+    "C:\\Users\\juana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\juana\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\juana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\juana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
   ],
   "logs": []
 }
