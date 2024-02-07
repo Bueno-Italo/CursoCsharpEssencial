@@ -63,7 +63,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaRepetição2", "Es
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "estruturaRepetiçãoWhile3", "estruturaRepetiçãoWhile3\estruturaRepetiçãoWhile3.csproj", "{DBB7CB3C-597F-4F3D-A53E-8ECC2B66AC66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntruçãoWhile", "IntruçãoWhile\IntruçãoWhile.csproj", "{37B2B072-6182-4800-9319-D6B4F5A4AAE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntruçãoWhile", "IntruçãoWhile\IntruçãoWhile.csproj", "{37B2B072-6182-4800-9319-D6B4F5A4AAE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntruçãoFor1", "IntruçãoFor1\IntruçãoFor1.csproj", "{BA0EEA1C-6078-41FA-B586-D383A7881C33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{37B2B072-6182-4800-9319-D6B4F5A4AAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37B2B072-6182-4800-9319-D6B4F5A4AAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37B2B072-6182-4800-9319-D6B4F5A4AAE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0EEA1C-6078-41FA-B586-D383A7881C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0EEA1C-6078-41FA-B586-D383A7881C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0EEA1C-6078-41FA-B586-D383A7881C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0EEA1C-6078-41FA-B586-D383A7881C33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
