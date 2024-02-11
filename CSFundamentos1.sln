@@ -61,7 +61,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaRepetição", "Est
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaRepetição2", "EstruturaRepetição2\EstruturaRepetição2.csproj", "{62C2D04D-92A1-4BFE-8A29-DCAA2F123F49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConflictMerge", "TestConflictMerge\TestConflictMerge.csproj", "{EC40D83E-AFED-4E04-8A94-E9C8BD136843}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestConflictMerge", "TestConflictMerge\TestConflictMerge.csproj", "{EC40D83E-AFED-4E04-8A94-E9C8BD136843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objeto", "Objeto\Objeto.csproj", "{29281312-17C3-4E90-93F2-E641D8B53B07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{EC40D83E-AFED-4E04-8A94-E9C8BD136843}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC40D83E-AFED-4E04-8A94-E9C8BD136843}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC40D83E-AFED-4E04-8A94-E9C8BD136843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29281312-17C3-4E90-93F2-E641D8B53B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29281312-17C3-4E90-93F2-E641D8B53B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29281312-17C3-4E90-93F2-E641D8B53B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29281312-17C3-4E90-93F2-E641D8B53B07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
