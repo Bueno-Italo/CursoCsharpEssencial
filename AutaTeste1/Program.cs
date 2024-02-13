@@ -3,5 +3,4 @@ Console.WriteLine("Hello, World!");
 //nunrugnurw
 //nfefuwknfu
 
-int x = 2.5;
-int.Parse(x.ToString());
+int x = int.Parse(Console.ReadLine());
