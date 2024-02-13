@@ -63,9 +63,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaRepetição2", "Es
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestConflictMerge", "TestConflictMerge\TestConflictMerge.csproj", "{EC40D83E-AFED-4E04-8A94-E9C8BD136843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objeto", "Objeto\Objeto.csproj", "{29281312-17C3-4E90-93F2-E641D8B53B07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Objeto", "Objeto\Objeto.csproj", "{29281312-17C3-4E90-93F2-E641D8B53B07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos", "Metodos\Metodos.csproj", "{6E66CACA-366B-4983-830A-C30CC7FB60A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodos", "Metodos\Metodos.csproj", "{6E66CACA-366B-4983-830A-C30CC7FB60A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutaTeste1", "AutaTeste1\AutaTeste1.csproj", "{BFA8BFBC-7636-4917-AF39-888FBD9F59B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{6E66CACA-366B-4983-830A-C30CC7FB60A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E66CACA-366B-4983-830A-C30CC7FB60A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E66CACA-366B-4983-830A-C30CC7FB60A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA8BFBC-7636-4917-AF39-888FBD9F59B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA8BFBC-7636-4917-AF39-888FBD9F59B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA8BFBC-7636-4917-AF39-888FBD9F59B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA8BFBC-7636-4917-AF39-888FBD9F59B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
