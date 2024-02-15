@@ -28,8 +28,8 @@ public class Curso
     {
         Console.WriteLine($"\nO aluno {aluno.Nome}, sexo {aluno.Sexo} com {aluno.Idade} anos");
         if (aluno.Aprovado == "S")
-            Console.WriteLine("\nFoi Aprovado");
+            Console.WriteLine("\nVocê foi Aprovado");
         else
-            Console.WriteLine("\nFoi Reprovado");
+            Console.WriteLine("\nVocê foi Reprovado");
     }
 }
