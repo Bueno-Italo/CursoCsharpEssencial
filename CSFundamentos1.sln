@@ -69,9 +69,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodos", "Metodos\Metodos.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutaTeste1", "AutaTeste1\AutaTeste1.csproj", "{BFA8BFBC-7636-4917-AF39-888FBD9F59B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosParametros", "MetodosParametros\MetodosParametros.csproj", "{27332A16-3A19-404D-B4AA-9095302D51C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosParametros", "MetodosParametros\MetodosParametros.csproj", "{27332A16-3A19-404D-B4AA-9095302D51C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassandoParametros", "PassandoParametros\PassandoParametros.csproj", "{14E5BE4B-75EF-44CE-A6A7-18D2B4BAEC7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassandoParametros", "PassandoParametros\PassandoParametros.csproj", "{14E5BE4B-75EF-44CE-A6A7-18D2B4BAEC7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtor", "Construtor\Construtor.csproj", "{CA915E51-CA7B-4AE6-9F71-0C7AB28FEF55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{14E5BE4B-75EF-44CE-A6A7-18D2B4BAEC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14E5BE4B-75EF-44CE-A6A7-18D2B4BAEC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14E5BE4B-75EF-44CE-A6A7-18D2B4BAEC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA915E51-CA7B-4AE6-9F71-0C7AB28FEF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA915E51-CA7B-4AE6-9F71-0C7AB28FEF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA915E51-CA7B-4AE6-9F71-0C7AB28FEF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA915E51-CA7B-4AE6-9F71-0C7AB28FEF55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
